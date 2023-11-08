@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">iWell</string>
+    <!-- Strings related to login -->
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="welcome2">Welcome:</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="query">Enter your query:</string>
+    <string name="logout">LOGOUT</string>
+    <string name="query2">Query</string>
+    <string name="send">Send</string>
+    <string name="query_fail">Wrong query, please try again.</string>
+    <string name="login_failed">Incorrect username or password.</string>
+    <string name="path">host:port</string>
+</resources>
